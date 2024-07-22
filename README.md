@@ -14,7 +14,7 @@
 [![Gitee stars](https://gitee.com/xiaohe0601/xiaohe-uniapp/badge/star.svg?theme=dark)](https://gitee.com/xiaohe0601/xiaohe-uniapp/stargazers)
 [![Gitee forks](https://gitee.com/xiaohe0601/xiaohe-uniapp/badge/fork.svg?theme=dark)](https://gitee.com/xiaohe0601/xiaohe-uniapp/members)
 
-小何同学 / [github@xiaohe0601](https://github.com/xiaohe0601) / [gitee@xiaohe0601](https://gitee.com/xiaohe0601)
+ / [github@xiaohe0601](https://github.com/xiaohe0601) / [gitee@xiaohe0601](https://gitee.com/xiaohe0601)
 
 ### 🎉 特性
 
